@@ -37,6 +37,9 @@ $$W_{out} = \frac{W_{in} - K + 2P}{S} + 1$$
 ### 1、结构：
 ![RNN 结构](image/rnn.png)
 
+### 2、LSTM
+![LSTM 结构](image/lstm.png)
+
 ## 常用的激活函数：  
 1. sigmoid函数：$g(z) = \frac{1}{1 + e^{-z}}$  
 优点：简单，适用于分类任务
